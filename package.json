@@ -1,0 +1,22 @@
+{
+  "name": "-types-koa-body",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weicracker/-types-koa-body.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/koa": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/weicracker/-types-koa-body/issues"
+  },
+  "homepage": "https://github.com/weicracker/-types-koa-body#readme"
+}
